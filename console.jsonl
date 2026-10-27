@@ -1,0 +1,349 @@
+{"level":"debug","message":"[vite] connected.","timestamp":1793022857305}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793022904369}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022904369}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793022904393}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022904393}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementsList.tsx","timestamp":1793022908688}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022908688}
+{"level":"debug","message":"[vite] hot updated: /src/components/ChainGuard.tsx","timestamp":1793022910022}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022910022}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793022911817}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022911817}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1793022913470}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793022913469}
+{"level":"debug","message":"[vite] hot updated: /src/components/GuardPanel.tsx","timestamp":1793022913470}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementsList.tsx","timestamp":1793022913470}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793022913470}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793022913471}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreement.tsx","timestamp":1793022913471}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793022913471}
+{"level":"debug","message":"[vite] hot updated: /src/components/ChainGuard.tsx","timestamp":1793022913471}
+{"level":"debug","message":"[vite] hot updated: /src/components/GuardPanel.tsx","timestamp":1793022920020}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022920020}
+{"level":"debug","message":"[vite] hot updated: /src/components/GuardPanel.tsx","timestamp":1793022920024}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022920024}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793022923936}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022923936}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793022923936}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022923936}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793022926075}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022926075}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793022926076}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022926076}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793022928531}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022928531}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793022928532}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022928532}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793022930780}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022930780}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793022930781}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022930781}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementsList.tsx","timestamp":1793022950737}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022950737}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementsList.tsx","timestamp":1793022950739}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022950739}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793022952112}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022952112}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793022952112}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022952112}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793022953740}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022953740}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793022953741}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022953741}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreement.tsx","timestamp":1793022956609}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022956609}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreement.tsx","timestamp":1793022956609}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022956609}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreement.tsx","timestamp":1793022959600}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022959600}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreement.tsx","timestamp":1793022959600}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022959600}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreement.tsx","timestamp":1793022964142}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022964142}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreement.tsx","timestamp":1793022964143}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022964143}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793022974334}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022974334}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793022974335}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022974335}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementsList.tsx","timestamp":1793022975911}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022975911}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementsList.tsx","timestamp":1793022975913}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022975913}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793022983603}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022983603}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793022983604}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022983604}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793022989658}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022989659}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793022989659}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022989659}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementsList.tsx","timestamp":1793022992669}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022992670}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementsList.tsx","timestamp":1793022992670}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793022992670}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementsList.tsx","timestamp":1793023002514}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023002514}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementsList.tsx","timestamp":1793023002515}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023002515}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1793023010689}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793023010689}
+{"level":"debug","message":"[vite] hot updated: /src/components/GuardPanel.tsx","timestamp":1793023010690}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementsList.tsx","timestamp":1793023010690}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793023010690}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793023010690}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreement.tsx","timestamp":1793023010690}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793023010690}
+{"level":"debug","message":"[vite] hot updated: /src/components/ChainGuard.tsx","timestamp":1793023010690}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1793023011267}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793023011267}
+{"level":"debug","message":"[vite] hot updated: /src/components/GuardPanel.tsx","timestamp":1793023011268}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementsList.tsx","timestamp":1793023011268}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793023011270}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793023011270}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreement.tsx","timestamp":1793023011270}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793023011270}
+{"level":"debug","message":"[vite] hot updated: /src/components/ChainGuard.tsx","timestamp":1793023011270}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023018264}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793023018264}
+{"level":"debug","message":"[vite] hot updated: /src/components/GuardPanel.tsx","timestamp":1793023018264}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementsList.tsx","timestamp":1793023018264}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793023018264}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793023018264}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreement.tsx","timestamp":1793023018264}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793023018265}
+{"level":"debug","message":"[vite] hot updated: /src/components/ChainGuard.tsx","timestamp":1793023018265}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023018388}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793023018388}
+{"level":"debug","message":"[vite] hot updated: /src/components/GuardPanel.tsx","timestamp":1793023018389}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementsList.tsx","timestamp":1793023018390}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793023018391}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793023018391}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreement.tsx","timestamp":1793023018391}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793023018391}
+{"level":"debug","message":"[vite] hot updated: /src/components/ChainGuard.tsx","timestamp":1793023018391}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023021133}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793023021134}
+{"level":"debug","message":"[vite] hot updated: /src/components/GuardPanel.tsx","timestamp":1793023021135}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793023021135}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793023021135}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreement.tsx","timestamp":1793023021136}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793023021136}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023021136}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793023021137}
+{"level":"debug","message":"[vite] hot updated: /src/components/GuardPanel.tsx","timestamp":1793023021137}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793023021137}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793023021138}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreement.tsx","timestamp":1793023021138}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793023021138}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023027027}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793023027027}
+{"level":"debug","message":"[vite] hot updated: /src/components/GuardPanel.tsx","timestamp":1793023027027}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793023027027}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793023027028}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreement.tsx","timestamp":1793023027028}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793023027028}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023027029}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793023027029}
+{"level":"debug","message":"[vite] hot updated: /src/components/GuardPanel.tsx","timestamp":1793023027029}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793023027029}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793023027029}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreement.tsx","timestamp":1793023027029}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793023027029}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023033716}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793023033717}
+{"level":"debug","message":"[vite] hot updated: /src/components/GuardPanel.tsx","timestamp":1793023033717}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793023033718}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793023033718}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreement.tsx","timestamp":1793023033718}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793023033718}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023033860}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793023033860}
+{"level":"debug","message":"[vite] hot updated: /src/components/GuardPanel.tsx","timestamp":1793023033860}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793023033860}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793023033861}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreement.tsx","timestamp":1793023033861}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793023033861}
+{"level":"debug","message":"[vite] connected.","timestamp":1793023144559}
+{"level":"warn","message":"It looks like there are several instances of 'styled-components' initialized in this application. This may cause dynamic styles to not render properly, errors during the rehydration process, a missing theme prop, and makes your application bigger without good reason.\n\nSee https://s-c.sh/2BAXzed for more info.","timestamp":1793023622890}
+{"level":"error","message":"Warning: Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:\n1. You might have mismatching versions of React and the renderer (such as React DOM)\n2. You might be breaking the Rules of Hooks\n3. You might have more than one copy of React in the same app\nSee https://reactjs.org/link/invalid-hook-call for tips about how to debug and fix this problem.","timestamp":1793023623080}
+{"level":"error","message":"(previous line repeated 1× more)","timestamp":1793023623094}
+{"level":"error","message":"Uncaught TypeError: Cannot read properties of null (reading 'useRef')","timestamp":1793023623094,"source":"https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-TWJ6NINL.js?v=4b843168:1359:29","stack":"TypeError: Cannot read properties of null (reading 'useRef')\n    at Object.useRef (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-TWJ6NINL.js?v=4b843168:1359:29)\n    at BrowserRouter (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/react-router-dom.js?v=950fb77b:10984:28)\n    at renderWithHooks (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=5cca9a44:18474:26)\n    at mountIndeterminateComponent (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=5cca9a44:21852:21)\n    at beginWork (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=5cca9a44:22840:22)\n    at HTMLUnknownElement.callCallback2 (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=5cca9a44:10558:22)\n    at Object.invokeGuardedCallbackDev (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=5cca9a44:10583:24)\n    at invokeGuardedCallback (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=5cca9a44:10617:39)\n    at beginWork$1 (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=5cca9a44:26696:15)\n    at performUnitOfWork (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=5cca9a44:26129:20)"}
+{"level":"error","message":"(previous line repeated 2× more)","timestamp":1793023623132}
+{"level":"error","message":"Uncaught TypeError: Cannot read properties of null (reading 'useRef')","timestamp":1793023623132,"source":"https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-TWJ6NINL.js?v=4b843168:1359:29","stack":"TypeError: Cannot read properties of null (reading 'useRef')\n    at Object.useRef (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-TWJ6NINL.js?v=4b843168:1359:29)\n    at BrowserRouter (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/react-router-dom.js?v=950fb77b:10984:28)\n    at renderWithHooks (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=5cca9a44:18474:26)\n    at mountIndeterminateComponent (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=5cca9a44:21852:21)\n    at beginWork (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=5cca9a44:22840:22)\n    at HTMLUnknownElement.callCallback2 (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=5cca9a44:10558:22)\n    at Object.invokeGuardedCallbackDev (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=5cca9a44:10583:24)\n    at invokeGuardedCallback (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=5cca9a44:10617:39)\n    at beginWork$1 (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=5cca9a44:26696:15)\n    at performUnitOfWork (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=5cca9a44:26129:20)"}
+{"level":"error","message":"The above error occurred in the <BrowserRouter> component:\n\n    at BrowserRouter (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/react-router-dom.js?v=950fb77b:10979:3)\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://reactjs.org/link/error-boundaries to learn more about error boundaries.","timestamp":1793023623132}
+{"level":"error","message":"Uncaught TypeError: Cannot read properties of null (reading 'useRef')","timestamp":1793023623133,"source":"https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=5cca9a44:26344:13","stack":"TypeError: Cannot read properties of null (reading 'useRef')\n    at Object.useRef (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-TWJ6NINL.js?v=4b843168:1359:29)\n    at BrowserRouter (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/react-router-dom.js?v=950fb77b:10984:28)\n    at renderWithHooks (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=5cca9a44:18474:26)\n    at mountIndeterminateComponent (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=5cca9a44:21852:21)\n    at beginWork (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=5cca9a44:22840:22)\n    at beginWork$1 (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=5cca9a44:26684:22)\n    at performUnitOfWork (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=5cca9a44:26129:20)\n    at workLoopSync (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=5cca9a44:26068:13)\n    at renderRootSync (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=5cca9a44:26047:15)\n    at recoverFromConcurrentError (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=5cca9a44:25664:28)"}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023628179}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023628180}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023960930}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793023960931}
+{"level":"debug","message":"[vite] hot updated: /src/components/GuardPanel.tsx","timestamp":1793023960931}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementsList.tsx","timestamp":1793023960931}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793023960931}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793023960931}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreement.tsx","timestamp":1793023960931}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793023960932}
+{"level":"debug","message":"[vite] hot updated: /src/components/ChainGuard.tsx","timestamp":1793023960932}
+{"level":"debug","message":"[vite] hot updated: /src/pages/FaqPage.tsx","timestamp":1793023960932}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023962321}
+{"level":"debug","message":"[vite] hot updated: /src/pages/FaqPage.tsx","timestamp":1793023962321}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023964858}
+{"level":"debug","message":"[vite] hot updated: /src/pages/FaqPage.tsx","timestamp":1793023964858}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793023967630}
+{"level":"debug","message":"[vite] hot updated: /src/pages/FaqPage.tsx","timestamp":1793023967631}
+{"level":"debug","message":"[vite] connected.","timestamp":1793024172167}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793024280980}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793024280980}
+{"level":"debug","message":"[vite] hot updated: /src/components/GuardPanel.tsx","timestamp":1793024280981}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementsList.tsx","timestamp":1793024280981}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793024280981}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793024280981}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreement.tsx","timestamp":1793024280981}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793024280981}
+{"level":"debug","message":"[vite] hot updated: /src/components/ChainGuard.tsx","timestamp":1793024280981}
+{"level":"debug","message":"[vite] hot updated: /src/pages/FaqPage.tsx","timestamp":1793024280982}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793024283715}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793024283715}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793024289292}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793024289292}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1793024327119}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793024327119}
+{"level":"debug","message":"[vite] hot updated: /src/components/GuardPanel.tsx","timestamp":1793024327120}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementsList.tsx","timestamp":1793024327120}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793024327120}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793024327120}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreement.tsx","timestamp":1793024327120}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793024327120}
+{"level":"debug","message":"[vite] hot updated: /src/components/ChainGuard.tsx","timestamp":1793024327120}
+{"level":"debug","message":"[vite] hot updated: /src/pages/FaqPage.tsx","timestamp":1793024327121}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793024345546}
+{"level":"debug","message":"[vite] hot updated: /src/pages/FaqPage.tsx","timestamp":1793024345547}
+{"level":"debug","message":"[vite] connected.","timestamp":1793024412641}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793026778365}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793026778454}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793026778454}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026778454}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793026803140}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026803140}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1793026803415}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793026803415}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026803416}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementsList.tsx","timestamp":1793026813915}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026813915}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementsList.tsx","timestamp":1793026813917}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026813917}
+{"level":"debug","message":"[vite] hot updated: /src/components/GuardPanel.tsx","timestamp":1793026823537}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026823537}
+{"level":"debug","message":"[vite] hot updated: /src/components/GuardPanel.tsx","timestamp":1793026823882}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026823882}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreement.tsx","timestamp":1793026855962}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026855962}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreement.tsx","timestamp":1793026855963}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026855963}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793026879852}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026879853}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793026879855}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026879855}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793026895824}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026895824}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793026895827}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026895828}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793026900824}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026900825}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793026901131}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026901131}
+{"level":"error","message":"Uncaught NotFoundError: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.","timestamp":1793026901180,"source":"https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:23596:15","stack":"NotFoundError: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.\n    at removeChildFromContainer (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:15387:23)\n    at commitDeletionEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24436:21)\n    at recursivelyTraverseDeletionEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24413:13)\n    at commitDeletionEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24505:15)\n    at commitDeletionEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24404:13)\n    at recursivelyTraverseMutationEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24602:17)\n    at commitMutationEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24824:15)\n    at recursivelyTraverseMutationEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24613:15)\n    at commitMutationEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24627:15)\n    at recursivelyTraverseMutationEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24613:15)"}
+{"level":"error","message":"Uncaught NotFoundError: Failed to execute 'insertBefore' on 'Node': The node before which the new node is to be inserted is not a child of this node.","timestamp":1793026901230,"source":"https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:23596:15","stack":"NotFoundError: Failed to execute 'insertBefore' on 'Node': The node before which the new node is to be inserted is not a child of this node.\n    at insertInContainerBefore (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:15377:23)\n    at insertOrAppendPlacementNodeIntoContainer (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24336:15)\n    at insertOrAppendPlacementNodeIntoContainer (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24344:15)\n    at commitPlacement (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24322:15)\n    at commitReconciliationEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24834:15)\n    at commitMutationEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24628:15)\n    at recursivelyTraverseMutationEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24613:15)\n    at commitMutationEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24824:15)\n    at recursivelyTraverseMutationEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24613:15)\n    at commitMutationEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24627:15)"}
+{"level":"error","message":"Uncaught NotFoundError: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.","timestamp":1793026901238,"source":"https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:23596:15","stack":"NotFoundError: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.\n    at removeChildFromContainer (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:15387:23)\n    at commitDeletionEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24436:21)\n    at recursivelyTraverseDeletionEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24413:13)\n    at commitDeletionEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24505:15)\n    at recursivelyTraverseDeletionEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24413:13)\n    at commitDeletionEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24505:15)\n    at recursivelyTraverseDeletionEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24413:13)\n    at commitDeletionEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24538:15)\n    at recursivelyTraverseDeletionEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24413:13)\n    at commitDeletionEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24538:15)"}
+{"level":"error","message":"The above error occurred in the <MainPage> component:\n\n    at MainPage (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/src/App.tsx?t=1793026890225:381:27)\n    at RenderedRoute (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/react-router-dom.js?v=4b843168:6779:26)\n    at Routes (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/react-router-dom.js?v=4b843168:7721:3)\n    at App\n    at Le (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=4b843168:18792:42)\n    at Web3ContextProvider (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=4b843168:34419:30)\n    at ConnectKitProvider (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=4b843168:37909:29)\n    at QueryClientProvider (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-L72R44ZZ.js?v=4b843168:39:30)\n    at Hydrate (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-F7FDFYZF.js?v=4b843168:392:11)\n    at WagmiProvider (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-F7FDFYZF.js?v=4b843168:414:11)\n    at Router (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/react-router-dom.js?v=4b843168:7660:13)\n    at BrowserRouter (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/react-router-dom.js?v=4b843168:10979:3)\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://reactjs.org/link/error-boundaries to learn more about error boundaries.","timestamp":1793026901240}
+{"level":"error","message":"The above error occurred in the <MainPage> component:\n\n    at MainPage (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/src/App.tsx?t=1793026893980:382:27)\n    at RenderedRoute (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/react-router-dom.js?v=4b843168:6779:26)\n    at Routes (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/react-router-dom.js?v=4b843168:7721:3)\n    at App\n    at Le (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=4b843168:18792:42)\n    at Web3ContextProvider (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=4b843168:34419:30)\n    at ConnectKitProvider (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=4b843168:37909:29)\n    at QueryClientProvider (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-L72R44ZZ.js?v=4b843168:39:30)\n    at Hydrate (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-F7FDFYZF.js?v=4b843168:392:11)\n    at WagmiProvider (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-F7FDFYZF.js?v=4b843168:414:11)\n    at Router (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/react-router-dom.js?v=4b843168:7660:13)\n    at BrowserRouter (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/react-router-dom.js?v=4b843168:10979:3)\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://reactjs.org/link/error-boundaries to learn more about error boundaries.","timestamp":1793026901241}
+{"level":"error","message":"The above error occurred in the <StrictMode> component:\n\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://reactjs.org/link/error-boundaries to learn more about error boundaries.","timestamp":1793026901277}
+{"level":"error","message":"Warning: React has detected a change in the order of Hooks called by %s. This will lead to bugs and errors if not fixed. For more information, read the Rules of Hooks: https://reactjs.org/link/rules-of-hooks\n\n   Previous render            Next render\n   ------------------------------------------------------\n%s   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n%s MainPage 1. useContext                 useContext\n2. useRef                     useRef\n3. useRef                     useRef\n4. useMemo                    useMemo\n5. useSyncExternalStore       useSyncExternalStore\n6. useEffect                  useEffect\n7. useDebugValue              useDebugValue\n8. useMemo                    useMemo\n9. useState                   useState\n10. undefined                 useState\n \n    at MainPage (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/src/App.tsx?t=1793026893980:382:27)\n    at RenderedRoute (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/react-router-dom.js?v=4b843168:6779:26)\n    at Routes (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/react-router-dom.js?v=4b843168:7721:3)\n    at App\n    at Le (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=4b843168:18792:42)\n    at Web3ContextProvider (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=4b843168:34419:30)\n    at ConnectKitProvider (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=4b843168:37909:29)\n    at QueryClientProvider (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-L72R44ZZ.js?v=4b843168:39:30)\n    at Hydrate (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-F7FDFYZF.js?v=4b843168:392:11)\n    at WagmiProvider (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-F7FDFYZF.js?v=4b843168:414:11)\n    at Router (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/react-router-dom.js?v=4b843168:7660:13)\n    at BrowserRouter (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/react-router-dom.js?v=4b843168:10979:3)","timestamp":1793026901370}
+{"level":"error","message":"Uncaught Error: Rendered more hooks than during the previous render.","timestamp":1793026901371,"source":"https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:18604:15","stack":"Error: Rendered more hooks than during the previous render.\n    at updateWorkInProgressHook (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:18604:21)\n    at updateReducer (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:18653:22)\n    at updateState (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:18947:18)\n    at Object.useState (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:19679:24)\n    at useState (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-TWJ6NINL.js?v=4b843168:1351:29)\n    at MainPage (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/src/App.tsx?t=1793026893980:384:41)\n    at renderWithHooks (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:18474:26)\n    at updateFunctionComponent (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:21508:28)\n    at beginWork (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:22850:22)\n    at HTMLUnknownElement.callCallback2 (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:10558:22)"}
+{"level":"error","message":"Uncaught Error: Rendered more hooks than during the previous render.","timestamp":1793026901394,"source":"https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:18604:15","stack":"Error: Rendered more hooks than during the previous render.\n    at updateWorkInProgressHook (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:18604:21)\n    at updateReducer (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:18653:22)\n    at updateState (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:18947:18)\n    at Object.useState (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:19679:24)\n    at useState (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-TWJ6NINL.js?v=4b843168:1351:29)\n    at MainPage (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/src/App.tsx?t=1793026893980:384:41)\n    at renderWithHooks (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:18474:26)\n    at updateFunctionComponent (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:21508:28)\n    at beginWork (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:22850:22)\n    at HTMLUnknownElement.callCallback2 (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:10558:22)"}
+{"level":"error","message":"Uncaught NotFoundError: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.","timestamp":1793026901396,"source":"https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:23596:15","stack":"NotFoundError: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.\n    at removeChildFromContainer (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:15387:23)\n    at commitDeletionEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24436:21)\n    at recursivelyTraverseDeletionEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24413:13)\n    at commitDeletionEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24505:15)\n    at recursivelyTraverseDeletionEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24413:13)\n    at commitDeletionEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24505:15)\n    at recursivelyTraverseDeletionEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24413:13)\n    at commitDeletionEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24538:15)\n    at recursivelyTraverseDeletionEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24413:13)\n    at commitDeletionEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24538:15)"}
+{"level":"error","message":"The above error occurred in the <MainPage> component:\n\n    at MainPage (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/src/App.tsx?t=1793026893980:382:27)\n    at RenderedRoute (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/react-router-dom.js?v=4b843168:6779:26)\n    at Routes (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/react-router-dom.js?v=4b843168:7721:3)\n    at App\n    at Le (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=4b843168:18792:42)\n    at Web3ContextProvider (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=4b843168:34419:30)\n    at ConnectKitProvider (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/connectkit.js?v=4b843168:37909:29)\n    at QueryClientProvider (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-L72R44ZZ.js?v=4b843168:39:30)\n    at Hydrate (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-F7FDFYZF.js?v=4b843168:392:11)\n    at WagmiProvider (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-F7FDFYZF.js?v=4b843168:414:11)\n    at Router (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/react-router-dom.js?v=4b843168:7660:13)\n    at BrowserRouter (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/react-router-dom.js?v=4b843168:10979:3)\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://reactjs.org/link/error-boundaries to learn more about error boundaries.","timestamp":1793026901397}
+{"level":"error","message":"Uncaught Error: Rendered more hooks than during the previous render.","timestamp":1793026901397,"source":"https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:26344:13","stack":"Error: Rendered more hooks than during the previous render.\n    at updateWorkInProgressHook (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:18604:21)\n    at updateReducer (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:18653:22)\n    at updateState (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:18947:18)\n    at Object.useState (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:19679:24)\n    at useState (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-TWJ6NINL.js?v=4b843168:1351:29)\n    at MainPage (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/src/App.tsx?t=1793026893980:384:41)\n    at renderWithHooks (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:18474:26)\n    at updateFunctionComponent (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:21508:28)\n    at beginWork (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:22850:22)\n    at beginWork$1 (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:26684:22)"}
+{"level":"error","message":"The above error occurred in the <StrictMode> component:\n\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://reactjs.org/link/error-boundaries to learn more about error boundaries.","timestamp":1793026901399}
+{"level":"error","message":"Uncaught NotFoundError: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.","timestamp":1793026901399,"source":"https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:16054:15","stack":"NotFoundError: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.\n    at removeChildFromContainer (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:15387:23)\n    at commitDeletionEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24436:21)\n    at recursivelyTraverseDeletionEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24413:13)\n    at commitDeletionEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24505:15)\n    at recursivelyTraverseDeletionEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24413:13)\n    at commitDeletionEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24505:15)\n    at recursivelyTraverseDeletionEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24413:13)\n    at commitDeletionEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24538:15)\n    at recursivelyTraverseDeletionEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24413:13)\n    at commitDeletionEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24538:15)"}
+{"level":"error","message":"Unhandled promise rejection: NotFoundError: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.\n    at removeChildFromContainer (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:15387:23)\n    at commitDeletionEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24436:21)\n    at recursivelyTraverseDeletionEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24413:13)\n    at commitDeletionEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24505:15)\n    at commitDeletionEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24404:13)\n    at recursivelyTraverseMutationEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24602:17)\n    at commitMutationEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24824:15)\n    at recursivelyTraverseMutationEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24613:15)\n    at commitMutationEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24627:15)\n    at recursivelyTraverseMutationEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24613:15)","timestamp":1793026901430,"stack":"NotFoundError: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.\n    at removeChildFromContainer (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:15387:23)\n    at commitDeletionEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24436:21)\n    at recursivelyTraverseDeletionEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24413:13)\n    at commitDeletionEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24505:15)\n    at commitDeletionEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24404:13)\n    at recursivelyTraverseMutationEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24602:17)\n    at commitMutationEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24824:15)\n    at recursivelyTraverseMutationEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24613:15)\n    at commitMutationEffectsOnFiber (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24627:15)\n    at recursivelyTraverseMutationEffects (https://il00qnt86xbn0l36x82gt.preview.studio.arc.io/node_modules/.vite/deps/chunk-YI6NTZAD.js?v=4b843168:24613:15)"}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793026905019}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026905019}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793026905031}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026905032}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1793026913002}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793026913002}
+{"level":"debug","message":"[vite] hot updated: /src/components/GuardPanel.tsx","timestamp":1793026913002}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793026913002}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793026913002}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreement.tsx","timestamp":1793026913003}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793026913003}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1793026913065}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793026913065}
+{"level":"debug","message":"[vite] hot updated: /src/components/GuardPanel.tsx","timestamp":1793026913066}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793026913066}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793026913066}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreement.tsx","timestamp":1793026913066}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793026913066}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026914825}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793026914825}
+{"level":"debug","message":"[vite] hot updated: /src/components/GuardPanel.tsx","timestamp":1793026914825}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793026914825}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793026914826}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreement.tsx","timestamp":1793026914826}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793026914826}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026914890}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793026914890}
+{"level":"debug","message":"[vite] hot updated: /src/components/GuardPanel.tsx","timestamp":1793026914890}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793026914890}
+{"level":"debug","message":"[vite] hot updated: /src/components/Dashboard.tsx","timestamp":1793026914890}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreement.tsx","timestamp":1793026914890}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementCard.tsx","timestamp":1793026914890}
+{"level":"debug","message":"[vite] hot updated: /src/components/NetworkBanner.tsx","timestamp":1793026926598}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026926598}
+{"level":"debug","message":"[vite] hot updated: /src/components/NetworkBanner.tsx","timestamp":1793026926678}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026926678}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793026927932}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026927932}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793026927937}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026927937}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793026935428}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793026935429}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793026935429}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026935429}
+{"level":"debug","message":"[vite] hot updated: /src/components/NetworkBanner.tsx","timestamp":1793026935429}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793026935430}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793026935431}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793026935431}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026935431}
+{"level":"debug","message":"[vite] hot updated: /src/components/NetworkBanner.tsx","timestamp":1793026935431}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026935760}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026935775}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1793026937111}
+{"level":"debug","message":"[vite] hot updated: /src/components/NetworkBanner.tsx","timestamp":1793026937111}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026937111}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1793026937259}
+{"level":"debug","message":"[vite] hot updated: /src/components/NetworkBanner.tsx","timestamp":1793026937259}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026937259}
+{"level":"debug","message":"[vite] hot updated: /src/components/NetworkBanner.tsx","timestamp":1793026945764}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026945764}
+{"level":"debug","message":"[vite] hot updated: /src/components/NetworkBanner.tsx","timestamp":1793026945766}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026945766}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793026949429}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026949430}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793026949441}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026949441}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793026951369}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026951369}
+{"level":"debug","message":"[vite] hot updated: /src/components/EventFeed.tsx","timestamp":1793026951511}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793026951511}
+{"level":"debug","message":"[vite] connected.","timestamp":1793026999656}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793099714795}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793099714798}
+{"level":"debug","message":"[vite] connected.","timestamp":1793103124189}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793103236591}
+{"level":"debug","message":"[vite] connected.","timestamp":1793105032277}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793105059080}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793105059080}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793105059314}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793105059315}
